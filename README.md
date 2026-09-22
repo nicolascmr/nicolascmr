@@ -37,7 +37,11 @@ I'm a student pursuing a Bachelor of Technology in Computer Science at Orléans.
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
-
+## Experiences
+### Development of a project managing web app - DGA TT Bourges
+- Developped an web app to manage projects paired with an authentication system.
+- Used PostGreSQL to manage the database, create queries.
+- Undestanding of the specifications, ongoing exchange with the client
 ---
 
 ### Contact Me
